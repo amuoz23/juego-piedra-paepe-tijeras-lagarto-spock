@@ -1,1 +1,1 @@
-# juego-piedra-paepe-tijeras-lagarto-spock
+# juego-piedra-papel-tijeras-lagarto-spock
