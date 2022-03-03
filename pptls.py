@@ -1,6 +1,6 @@
 # juego-piedra-papel-tijeras-lagarto-spock
 """
-Proyecto basico en pyton para el juego Piedra, Paple, Lagarto, Spock
+Proyecto basico en pyton para el juego Piedra, Papel, Lagarto, Spock
 """
 import random
 
